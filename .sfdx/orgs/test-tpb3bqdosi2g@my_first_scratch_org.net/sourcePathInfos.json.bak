@@ -1,0 +1,107 @@
+[
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514143465077,
+            "changeTime": 1514143465077,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514144257965,
+            "changeTime": 1514144257965,
+            "contentHash": "c7dc6fd0ca99d81a7c672a49bfe2b056bfbccf32",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514143465078,
+            "changeTime": 1514143465078,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514143465078,
+            "changeTime": 1514143465078,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\FirstVFpage.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\FirstVFpage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 156,
+            "modifiedTime": 1514144257964,
+            "changeTime": 1514144257964,
+            "contentHash": "646b46e60e893cfb7eb978462248b08070306fb2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\FirstVFpage.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject\\force-app\\main\\FirstVFpage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1514144257969,
+            "changeTime": 1514144257969,
+            "contentHash": "045596028395896003329f97f783ab318de96a66",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce DX Workspace\\myFirstSFDXproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce DX Workspace\\myFirstSFDXproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514144619427,
+            "changeTime": 1514144619427,
+            "contentHash": "eb2b76c117eaa944eced843d3805401379b4a822",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
