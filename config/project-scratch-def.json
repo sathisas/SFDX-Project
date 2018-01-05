@@ -1,6 +1,7 @@
 {
-    "orgName": "My First Scratch Org",
-    "edition": "Developer",
+    "orgName": "Scratch Org4 EE",
+    "edition": "Enterprise",
+    "hasSampleData": "true",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
     }
